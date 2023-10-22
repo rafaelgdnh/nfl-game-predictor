@@ -11,7 +11,7 @@ import numpy as np
 
 
 # Initializes NFL API using sportradar
-api_key = 'dznnaaf7zzmpj8bgqtnhctpu'
+api_key = 'insert_api_key_here'
 nfl_api = NFL.NFL(api_key)
 
 
