@@ -1,0 +1,1190 @@
+{
+    "id": "a538d200-e916-4272-aa07-b486094a1668",
+    "year": 2023,
+    "type": "REG",
+    "name": "REG",
+    "week": {
+        "id": "b97007d7-03b1-4ef9-8fb1-d96d7abdb722",
+        "sequence": 1,
+        "title": "1",
+        "games": [
+            {
+                "id": "88b69b59-d7b9-4572-84d8-6ec00f9af626",
+                "status": "closed",
+                "scheduled": "2023-09-08T00:20:00+00:00",
+                "attendance": 73522,
+                "entry_mode": "LDE",
+                "weather": " Temp: 83 F, Humidity: 36%, Wind: E 6 mph",
+                "venue": {
+                    "id": "2ec4c411-dac2-403d-b091-6b6aa4a0a914",
+                    "name": "GEHA Field at Arrowhead Stadium",
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "country": "USA",
+                    "zip": "64129",
+                    "address": "One Arrowhead Drive",
+                    "capacity": 76416,
+                    "surface": "turf",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+                    "name": "Kansas City Chiefs",
+                    "alias": "KC",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e",
+                    "name": "Detroit Lions",
+                    "alias": "DET",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "NBC"
+                },
+                "scoring": {
+                    "home_points": 20,
+                    "away_points": 21,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "05a473aa-23f2-4c65-8510-282216602c8c",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 0,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "c6a083a2-566a-44b0-b8c8-fcad65576f3e",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 14,
+                            "away_points": 0
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "f5d2a276-46a3-448b-b716-eef24cf3e4c2",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 3,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "a914c481-1182-4f71-a744-bcf08dbec310",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 3,
+                            "away_points": 7
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "29572e8e-e260-43ea-85d8-25b05dc2b8cb",
+                "status": "closed",
+                "scheduled": "2023-09-10T17:00:00+00:00",
+                "attendance": 70024,
+                "entry_mode": "LDE",
+                "weather": "Sunny Temp: 83 F, Humidity: 62%, Wind: NE 7 mph",
+                "venue": {
+                    "id": "3c85d89a-ec66-4983-acd5-1381d6c8673a",
+                    "name": "Caesars Superdome",
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "country": "USA",
+                    "zip": "70112",
+                    "address": "1500 Sugar Bowl Drive",
+                    "capacity": 73208,
+                    "surface": "artificial",
+                    "roof_type": "dome"
+                },
+                "home": {
+                    "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+                    "name": "New Orleans Saints",
+                    "alias": "NO",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+                    "name": "Tennessee Titans",
+                    "alias": "TEN",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "CBS"
+                },
+                "scoring": {
+                    "home_points": 16,
+                    "away_points": 15,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "181fcb3f-9b0f-4b63-9e03-5d6496dfff57",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 3,
+                            "away_points": 6
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "28d43ad1-994f-4f44-b77d-9f2049c770ef",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 3,
+                            "away_points": 3
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "2bfe13b7-a7e8-4635-9412-76f18c3a37cf",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 10,
+                            "away_points": 0
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "77f791b6-e350-465e-8e4f-35e0f0649921",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 0,
+                            "away_points": 6
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "2cc52209-4aae-43e5-9c25-65407907a01b",
+                "status": "closed",
+                "scheduled": "2023-09-10T17:00:00+00:00",
+                "attendance": 65749,
+                "entry_mode": "LDE",
+                "weather": "Indoors Temp: 72 F, Humidity: 62%, Wind: NNE 3 mph",
+                "venue": {
+                    "id": "6ed18563-53e0-46c2-a91d-12d73a16456d",
+                    "name": "Lucas Oil Stadium",
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "country": "USA",
+                    "zip": "46225",
+                    "address": "500 South Capitol Avenue",
+                    "capacity": 67000,
+                    "surface": "artificial",
+                    "roof_type": "retractable_dome"
+                },
+                "home": {
+                    "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+                    "name": "Indianapolis Colts",
+                    "alias": "IND",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de",
+                    "name": "Jacksonville Jaguars",
+                    "alias": "JAC",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "FOX"
+                },
+                "scoring": {
+                    "home_points": 21,
+                    "away_points": 31,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "07460800-3032-4be0-b2f4-1db708f548e9",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 0,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "d0cc2d9e-c6c5-4fcd-bde2-be3425c3accf",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 7,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "fb84d8d1-ac75-4048-9b9c-d93c06ec27b2",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 14,
+                            "away_points": 3
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "e4fc8b02-32e1-48ec-bb2f-ab36e03367de",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 0,
+                            "away_points": 14
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "36710c13-8f70-4a13-bd70-e1bfc74c3ab8",
+                "status": "closed",
+                "scheduled": "2023-09-10T17:00:00+00:00",
+                "attendance": 66741,
+                "entry_mode": "LDE",
+                "weather": "Overcast Temp: 67 F, Humidity: 64%, Wind: NNE 10 mph",
+                "venue": {
+                    "id": "f5ff00d4-1ed8-4918-bf73-13d66d510f98",
+                    "name": "U.S. Bank Stadium",
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "country": "USA",
+                    "zip": "55415",
+                    "address": "900 S 5th Street",
+                    "capacity": 66655,
+                    "surface": "artificial",
+                    "roof_type": "dome"
+                },
+                "home": {
+                    "id": "33405046-04ee-4058-a950-d606f8c30852",
+                    "name": "Minnesota Vikings",
+                    "alias": "MIN",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+                    "name": "Tampa Bay Buccaneers",
+                    "alias": "TB",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "CBS"
+                },
+                "scoring": {
+                    "home_points": 17,
+                    "away_points": 20,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "6264f168-16a8-4c5c-8295-deeadfbb11e9",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 0,
+                            "away_points": 3
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "e43b81b4-3237-4003-b721-66a5f0467c74",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 10,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "043cdc9c-646f-4439-9ee4-0477fea4459a",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 0,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "d07593d8-2562-407f-94fe-967d9098bbf3",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 7,
+                            "away_points": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "6651d05f-21f5-4e6c-a595-43358844d80a",
+                "status": "closed",
+                "scheduled": "2023-09-10T17:00:00+00:00",
+                "attendance": 64693,
+                "entry_mode": "LDE",
+                "weather": "Cloudy Temp: 76 F, Humidity: 84%, Wind: S 2 mph",
+                "venue": {
+                    "id": "7c11bb2d-4a53-4842-b842-0f1c63ed78e9",
+                    "name": "FedExField",
+                    "city": "Landover",
+                    "state": "MD",
+                    "country": "USA",
+                    "zip": "20785",
+                    "address": "1600 FedEx Way",
+                    "capacity": 67617,
+                    "surface": "turf",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+                    "name": "Washington Commanders",
+                    "alias": "WAS",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "de760528-1dc0-416a-a978-b510d20692ff",
+                    "name": "Arizona Cardinals",
+                    "alias": "ARI",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "FOX"
+                },
+                "scoring": {
+                    "home_points": 20,
+                    "away_points": 16,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "a71c108c-e9ab-4d96-9502-e695c9838add",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 7,
+                            "away_points": 3
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "61e9086c-98d9-4c69-a21f-378bb1010028",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 3,
+                            "away_points": 10
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "0ddea60a-74e9-48c3-8e69-870b5e4f7d6b",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 0,
+                            "away_points": 3
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "48a59b65-1d84-4b91-b7ef-2cc6ff53ec46",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 10,
+                            "away_points": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "84b20c0a-0be4-4efd-9359-5e31f912ad8a",
+                "status": "closed",
+                "scheduled": "2023-09-10T17:00:00+00:00",
+                "attendance": 67679,
+                "entry_mode": "LDE",
+                "weather": "Cloudy Temp: 72 F, Humidity: 83%, Wind: N 3 mph",
+                "venue": {
+                    "id": "7349a2e6-0ac9-410b-8bd2-ca58c9f7aa34",
+                    "name": "Acrisure Stadium",
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "country": "USA",
+                    "zip": "15212",
+                    "address": "100 Art Rooney Avenue",
+                    "capacity": 68400,
+                    "surface": "turf",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+                    "name": "Pittsburgh Steelers",
+                    "alias": "PIT",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+                    "name": "San Francisco 49ers",
+                    "alias": "SF",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "FOX"
+                },
+                "scoring": {
+                    "home_points": 7,
+                    "away_points": 30,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "7201ad3a-7701-4fe1-aac9-c89d6faa400b",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 0,
+                            "away_points": 10
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "09217aba-84c6-48ac-b4f7-9a4a40dd0402",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 7,
+                            "away_points": 10
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "a3e08b49-8db1-4965-9247-916129cb4045",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 0,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "c0bc59a4-69bd-4581-a20f-447a7249752f",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 0,
+                            "away_points": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "85bf59a4-8df7-45c9-9de5-bced0dab7aa2",
+                "status": "closed",
+                "scheduled": "2023-09-10T17:00:00+00:00",
+                "attendance": 67919,
+                "entry_mode": "LDE",
+                "weather": "Cloudy Temp: 68 F, Humidity: 83%, Wind: NW 8 mph",
+                "venue": {
+                    "id": "90c38d91-3774-4f5d-82ca-1c806828219f",
+                    "name": "Cleveland Browns Stadium",
+                    "city": "Cleveland",
+                    "state": "OH",
+                    "country": "USA",
+                    "zip": "44114",
+                    "address": "100 Alfred Lerner Way",
+                    "capacity": 67895,
+                    "surface": "turf",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+                    "name": "Cleveland Browns",
+                    "alias": "CLE",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "ad4ae08f-d808-42d5-a1e6-e9bc4e34d123",
+                    "name": "Cincinnati Bengals",
+                    "alias": "CIN",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "CBS"
+                },
+                "scoring": {
+                    "home_points": 24,
+                    "away_points": 3,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "64597825-312a-45b1-801f-8bacbc687131",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 0,
+                            "away_points": 0
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "acf532aa-eae7-411c-af57-ab4de881bd66",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 10,
+                            "away_points": 0
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "bed5c3e6-31b2-4216-b034-648f3892e492",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 3,
+                            "away_points": 3
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "2fc258ac-5e95-4b68-b27b-6b9b5ca26498",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 11,
+                            "away_points": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "a3ea95c6-4579-4df3-b6ca-fc94985c8772",
+                "status": "closed",
+                "scheduled": "2023-09-10T17:00:00+00:00",
+                "attendance": 69597,
+                "entry_mode": "LDE",
+                "weather": "Indoors Temp: 72 F, Humidity: 0%, Wind:  0 mph",
+                "venue": {
+                    "id": "1f2d393b-2291-4835-a412-0714966ea245",
+                    "name": "Mercedes-Benz Stadium",
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "country": "USA",
+                    "zip": "30313",
+                    "address": "441 Martin Luther King Jr Drive NW",
+                    "capacity": 71000,
+                    "surface": "artificial",
+                    "roof_type": "retractable_dome"
+                },
+                "home": {
+                    "id": "e6aa13a4-0055-48a9-bc41-be28dc106929",
+                    "name": "Atlanta Falcons",
+                    "alias": "ATL",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "f14bf5cc-9a82-4a38-bc15-d39f75ed5314",
+                    "name": "Carolina Panthers",
+                    "alias": "CAR",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "FOX"
+                },
+                "scoring": {
+                    "home_points": 24,
+                    "away_points": 10,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "02bef843-e50b-4cc9-a1a8-c3e8a6699011",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 0,
+                            "away_points": 0
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "02b32566-4a63-498a-b601-6e5200a19a06",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 7,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "973175ed-46c0-4570-8619-27ee81099915",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 3,
+                            "away_points": 3
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "73774589-8d78-401e-9492-b8ff6a36c2f3",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 14,
+                            "away_points": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "fb9cacd2-fa41-4067-a387-1c2086cfc729",
+                "status": "closed",
+                "scheduled": "2023-09-10T17:00:00+00:00",
+                "attendance": 70136,
+                "entry_mode": "LDE",
+                "weather": "Overcast Temp: 78 F, Humidity: 76%, Wind: SE 2 mph",
+                "venue": {
+                    "id": "d54faae0-0314-484f-8604-9d8dd08e1149",
+                    "name": "M&T Bank Stadium",
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "country": "USA",
+                    "zip": "21230",
+                    "address": "1101 Russell Street",
+                    "capacity": 71008,
+                    "surface": "turf",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+                    "name": "Baltimore Ravens",
+                    "alias": "BAL",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+                    "name": "Houston Texans",
+                    "alias": "HOU",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "CBS"
+                },
+                "scoring": {
+                    "home_points": 25,
+                    "away_points": 9,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "469ab889-4244-477e-baba-10ede5c10726",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 7,
+                            "away_points": 0
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "aecc6f45-06dd-48da-b17d-8779a0789f35",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 0,
+                            "away_points": 6
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "a2f73c18-4911-417d-acef-ecf7cefd54ee",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 15,
+                            "away_points": 0
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "64312d54-48bd-4fe4-8a2f-db096d7ef54d",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 3,
+                            "away_points": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "67727342-163e-40ad-9231-c967a1963fd0",
+                "status": "closed",
+                "scheduled": "2023-09-10T20:25:00+00:00",
+                "attendance": 62456,
+                "entry_mode": "LDE",
+                "weather": "Mostly Sunny Temp: 75 F, Humidity: 53%, Wind: W 7 mph",
+                "venue": {
+                    "id": "d7866605-5ac6-4b3a-90e8-760cc5a26b75",
+                    "name": "Soldier Field",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "country": "USA",
+                    "zip": "60605",
+                    "address": "1410 South Museum Campus Drive",
+                    "capacity": 61500,
+                    "surface": "turf",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8",
+                    "name": "Chicago Bears",
+                    "alias": "CHI",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+                    "name": "Green Bay Packers",
+                    "alias": "GB",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "FOX"
+                },
+                "scoring": {
+                    "home_points": 20,
+                    "away_points": 38,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "c4cb65ba-04b9-4921-8fa0-4dd4a5ce449c",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 3,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "dcfb7756-9b32-400d-afd7-83e2c31a1a79",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 3,
+                            "away_points": 3
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "b33b073f-0d1d-4f32-bc19-f8a6fdc21a2d",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 8,
+                            "away_points": 14
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "a11bbb52-c2c5-4580-b7ba-89508a1e5cec",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 6,
+                            "away_points": 14
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7fa08811-7cf6-4f09-a3b6-f35e91ab055e",
+                "status": "closed",
+                "scheduled": "2023-09-10T20:25:00+00:00",
+                "attendance": 64628,
+                "entry_mode": "LDE",
+                "weather": "Rain Temp: 71 F, Humidity: 96%, Wind: SE 5 mph",
+                "venue": {
+                    "id": "e43310b1-cb82-4df9-8be5-e9b39637031b",
+                    "name": "Gillette Stadium",
+                    "city": "Foxborough",
+                    "state": "MA",
+                    "country": "USA",
+                    "zip": "02035",
+                    "address": "One Patriot Place",
+                    "capacity": 66829,
+                    "surface": "artificial",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+                    "name": "New England Patriots",
+                    "alias": "NE",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+                    "name": "Philadelphia Eagles",
+                    "alias": "PHI",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "CBS"
+                },
+                "scoring": {
+                    "home_points": 20,
+                    "away_points": 25,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "3b952455-dd5e-41e0-891c-2f6f06259b2d",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 0,
+                            "away_points": 16
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "c7b9ba3b-32c1-47dc-8c61-9d64629afc44",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 14,
+                            "away_points": 0
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "ace96aa6-0e6a-4402-90f3-085d8cea770f",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 0,
+                            "away_points": 3
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "cf13a9a0-037f-4582-8864-c054a2224e1a",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 6,
+                            "away_points": 6
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "96f5c24c-b61f-4c3c-b93d-e576cdb7cf15",
+                "status": "closed",
+                "scheduled": "2023-09-10T20:25:00+00:00",
+                "attendance": 68683,
+                "entry_mode": "LDE",
+                "weather": "Sunny Temp: 74 F, Humidity: 50%, Wind: S 9 mph",
+                "venue": {
+                    "id": "c6b9e5df-c9e4-434c-b3e6-83928f11cbda",
+                    "name": "Lumen Field",
+                    "city": "Seattle",
+                    "state": "WA",
+                    "country": "USA",
+                    "zip": "98134",
+                    "address": "800 Occidental Avenue South",
+                    "capacity": 68740,
+                    "surface": "artificial",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+                    "name": "Seattle Seahawks",
+                    "alias": "SEA",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+                    "name": "Los Angeles Rams",
+                    "alias": "LA",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "FOX"
+                },
+                "scoring": {
+                    "home_points": 13,
+                    "away_points": 30,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "c00178cb-17d3-4ecf-8f60-85f4d4274d1c",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 3,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "f5d636a7-21bf-462a-bc73-5d0bc989e2ee",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 10,
+                            "away_points": 0
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "60eaf516-f0d6-4c57-a244-488b60ad6039",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 0,
+                            "away_points": 10
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "752c3c3c-8c01-4395-9b71-b2ab5ee1eebd",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 0,
+                            "away_points": 13
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "9c9fb62d-5350-49a8-8be1-ef614a1fd2de",
+                "status": "closed",
+                "scheduled": "2023-09-10T20:25:00+00:00",
+                "attendance": 70240,
+                "entry_mode": "LDE",
+                "weather": "Partly cloudy Temp: 90 F, Humidity: 40%, Wind: S 3 mph",
+                "venue": {
+                    "id": "790c1f04-73c6-4f6f-8b1e-78a62260be90",
+                    "name": "SoFi Stadium",
+                    "city": "Inglewood",
+                    "state": "CA",
+                    "country": "USA",
+                    "zip": "90301",
+                    "address": "1000 S Prairie Ave",
+                    "capacity": 70240,
+                    "surface": "artificial",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "id": "1f6dcffb-9823-43cd-9ff4-e7a8466749b5",
+                    "name": "Los Angeles Chargers",
+                    "alias": "LAC",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06",
+                    "name": "Miami Dolphins",
+                    "alias": "MIA",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "CBS"
+                },
+                "scoring": {
+                    "home_points": 34,
+                    "away_points": 36,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "85828282-019a-4793-8304-6f18b8966ac3",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 7,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "f55ba18f-95d7-4fae-b671-2858ad6151e8",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 10,
+                            "away_points": 13
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "d60f7290-f257-4b80-b1c6-2f28fee5b447",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 7,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "9e87f97a-bc22-4f45-8785-351b97152bf8",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 10,
+                            "away_points": 9
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "bf8bf897-a90f-4b1e-a993-d1982d1aeb0a",
+                "status": "closed",
+                "scheduled": "2023-09-10T20:25:00+00:00",
+                "attendance": 76299,
+                "entry_mode": "LDE",
+                "weather": "Overcast Temp: 64 F, Humidity: 65%, Wind: W 12 mph",
+                "venue": {
+                    "id": "6589e61d-ef1e-4e30-91b5-9acd2072b8a0",
+                    "name": "Empower Field at Mile High",
+                    "city": "Denver",
+                    "state": "CO",
+                    "country": "USA",
+                    "zip": "80204",
+                    "address": "1701 Mile High Stadium Circle",
+                    "capacity": 76125,
+                    "surface": "turf",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+                    "name": "Denver Broncos",
+                    "alias": "DEN",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "7d4fcc64-9cb5-4d1b-8e75-8a906d1e1576",
+                    "name": "Las Vegas Raiders",
+                    "alias": "LV",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "CBS"
+                },
+                "scoring": {
+                    "home_points": 16,
+                    "away_points": 17,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "23a41a36-f211-4da3-95cd-ba5bbba05216",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 6,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "61ee1d10-3b25-450b-aa80-eafa3c6be91e",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 7,
+                            "away_points": 3
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "77182a38-572e-4981-9141-43240b0e7ff7",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 0,
+                            "away_points": 0
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "48bb20a1-b7f3-403c-80fd-3e9698e5ba37",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 3,
+                            "away_points": 7
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "2ae69508-068e-4f79-a0f0-074e1411547a",
+                "status": "closed",
+                "scheduled": "2023-09-11T00:20:00+00:00",
+                "attendance": 80809,
+                "entry_mode": "LDE",
+                "weather": "Rain Temp: 74 F, Humidity: 82%, Wind: N 3 mph",
+                "venue": {
+                    "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+                    "name": "MetLife Stadium",
+                    "city": "East Rutherford",
+                    "state": "NJ",
+                    "country": "USA",
+                    "zip": "07073",
+                    "address": "One MetLife Stadium Drive",
+                    "capacity": 82500,
+                    "surface": "artificial",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d",
+                    "name": "New York Giants",
+                    "alias": "NYG",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060",
+                    "name": "Dallas Cowboys",
+                    "alias": "DAL",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "NBC"
+                },
+                "scoring": {
+                    "home_points": 0,
+                    "away_points": 40,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "d916891e-901d-436c-98b3-ddf397e0778c",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 0,
+                            "away_points": 16
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "f3334fdd-93df-413d-ad1f-0d2a9c72034b",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 0,
+                            "away_points": 10
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "c0298070-7d03-416f-a53f-22a84dd40f6c",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 0,
+                            "away_points": 7
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "ecef4688-56a6-4972-bfeb-55b1278086e8",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 0,
+                            "away_points": 7
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "110704e9-21f9-4ef8-ab83-df09573c1a9f",
+                "status": "closed",
+                "scheduled": "2023-09-12T00:15:00+00:00",
+                "attendance": 83345,
+                "entry_mode": "LDE",
+                "weather": "Rain Temp: 72 F, Humidity: 88%, Wind: N 3 mph",
+                "venue": {
+                    "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+                    "name": "MetLife Stadium",
+                    "city": "East Rutherford",
+                    "state": "NJ",
+                    "country": "USA",
+                    "zip": "07073",
+                    "address": "One MetLife Stadium Drive",
+                    "capacity": 82500,
+                    "surface": "artificial",
+                    "roof_type": "outdoor"
+                },
+                "home": {
+                    "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+                    "name": "New York Jets",
+                    "alias": "NYJ",
+                    "game_number": 1
+                },
+                "away": {
+                    "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724",
+                    "name": "Buffalo Bills",
+                    "alias": "BUF",
+                    "game_number": 1
+                },
+                "broadcast": {
+                    "network": "ABC/ESPN"
+                },
+                "scoring": {
+                    "home_points": 22,
+                    "away_points": 16,
+                    "periods": [
+                        {
+                            "period_type": "quarter",
+                            "id": "e077f5c2-ae96-4909-9151-ea7e62a1134f",
+                            "number": 1,
+                            "sequence": 1,
+                            "home_points": 0,
+                            "away_points": 3
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "5292167f-c55b-4341-b4bf-ebd363e3e278",
+                            "number": 2,
+                            "sequence": 2,
+                            "home_points": 3,
+                            "away_points": 10
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "0e80e926-6607-483a-90e0-f8f9b144a205",
+                            "number": 3,
+                            "sequence": 3,
+                            "home_points": 3,
+                            "away_points": 0
+                        },
+                        {
+                            "period_type": "quarter",
+                            "id": "e4213603-fa5a-4ce5-b8bd-c54cc3057f5f",
+                            "number": 4,
+                            "sequence": 4,
+                            "home_points": 10,
+                            "away_points": 3
+                        },
+                        {
+                            "period_type": "overtime",
+                            "id": "33b1b201-3d67-4944-b6c6-2ac070946188",
+                            "number": 1,
+                            "sequence": 5,
+                            "home_points": 6,
+                            "away_points": 0
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "_comment": "Generation started @ 2023-10-15 21:00:40 UTC ended @ 2023-10-15 21:00:40 UTC"
+}
