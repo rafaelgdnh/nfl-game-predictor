@@ -41,6 +41,12 @@ week = 4
 win_probability, opponent = predict_game_outcome(team_name, week, model, scaler, weekly_data, aggregated_data)
 ```
 
+Here is an example output for reference:
+
+
+<img width="543" alt="Screenshot 2023-10-22 at 10 27 30 AM" src="https://github.com/rafaelgdnh/nfl-game-predictor/assets/136276160/7ffc779b-353a-445a-8082-14cc7624367e">
+
+
 ## Agknowledgements 
  Here are the sources I utilized to build this project:
 
